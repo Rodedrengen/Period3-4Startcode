@@ -1,0 +1,8 @@
+.env
+node_modules
+build
+
+# ignore all logs files
+logs/*
+# don't ignore keep files
+!.keep
